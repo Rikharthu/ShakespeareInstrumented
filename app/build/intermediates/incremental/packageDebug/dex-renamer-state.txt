@@ -1,0 +1,7 @@
+#Sat Sep 24 14:27:10 EEST 2016
+base.0=D\:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_89d90a041e82f35a689036a6869909c42c7c4742
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b5c1814ed107cc4f111ed14dab00d83e7c7a0893\\classes.dex
+base.1=D\:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b5c1814ed107cc4f111ed14dab00d83e7c7a0893
+file.0=D\:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_89d90a041e82f35a689036a6869909c42c7c4742\\classes.dex

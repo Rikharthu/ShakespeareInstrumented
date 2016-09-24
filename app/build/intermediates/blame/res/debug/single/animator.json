@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\bounce_in_down.xml",
+        "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\bounce_in_down.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_down.xml",
+        "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\slide_out_down.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_right.xml",
+        "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_left.xml",
+        "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\animator\\fade_out.xml"
+    }
+]

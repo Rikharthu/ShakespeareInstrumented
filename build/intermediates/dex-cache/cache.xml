@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\AccIntern\ShakespeareInstrumented\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="08c790fc89263cf1dd7e1a48939ec73b6be523ed">
+        <dex dex="D:\Workspace\Android\AccIntern\ShakespeareInstrumented\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_89d90a041e82f35a689036a6869909c42c7c4742\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Android\AccIntern\ShakespeareInstrumented\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4baa7ea7f897c40867814a14784d37108527c5a0">
+        <dex dex="D:\Workspace\Android\AccIntern\ShakespeareInstrumented\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b5c1814ed107cc4f111ed14dab00d83e7c7a0893\classes.dex" />
+    </item>
+
+</items>
