@@ -77,6 +77,7 @@ public class MainActivity extends Activity {
     	Log.v(TAG, "in MainActivity showDetails(" + index + ")");
 
         if (isMultiPane()) {
+            // landscape mode
             // Check what fragment is shown, replace if needed.
             DetailsFragment details = (DetailsFragment)
                     getFragmentManager().findFragmentById(R.id.details);

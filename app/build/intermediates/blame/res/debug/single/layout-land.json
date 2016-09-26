@@ -2,5 +2,9 @@
     {
         "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
         "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\Samples\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "C:\\Workspace\\Android\\Samples\\ShakespeareInstrumented\\app\\src\\main\\res\\layout-land\\main.xml"
     }
 ]

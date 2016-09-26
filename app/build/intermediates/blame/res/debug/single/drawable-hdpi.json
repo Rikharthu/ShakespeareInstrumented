@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Workspace\\Android\\Samples\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Workspace\\Android\\Samples\\ShakespeareInstrumented\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
         "merged": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "D:\\Workspace\\Android\\AccIntern\\ShakespeareInstrumented\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     }

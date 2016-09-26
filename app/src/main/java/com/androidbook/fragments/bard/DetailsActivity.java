@@ -20,6 +20,10 @@ public class DetailsActivity extends Activity {
         	// no longer needed. Bail out and let the MainActivity
         	// do all the work.
             finish();
+            /* Why correct fragment will be shown?
+            * When you rate the device in DetailsActivity, MainActivity get's recreated aswell.
+            * It's TitlesFragment saves title index during it's onSaveInstanceState
+            * and later call showDetails() method again, which decide how to present current title*/
             return;
         }
 
